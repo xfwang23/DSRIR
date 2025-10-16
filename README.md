@@ -1,9 +1,9 @@
-# DSRIR: Dynamic spatial refinement learning for progressive all-in-one image restoration
+# [IPM 2025] DSRIR: Dynamic spatial refinement learning for progressive all-in-one image restoration
 
-> [Author1], [Author2], [Author3], ...
+> Xiaofeng Wang, Xiao Liu, Yutong Yang, Zhengyong Wang, Xiaohai He, Honggang Chen, Yi Li, Pingyu Wang
 
 
-[**[Paper]**]()
+[**[Paper]**](https://doi.org/10.1016/j.ipm.2025.104380)
 
 This code repository provides the official implementation of the methodology described in the paper "DSRIR: Dynamic spatial refinement learning for progressive all-in-one image restoration".
 
