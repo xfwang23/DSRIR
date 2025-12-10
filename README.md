@@ -203,5 +203,14 @@ We extend our sincere gratitude to the authors of [MPRNet](https://github.com/sw
 Please cite us if our work is useful for your research.
 
 ```
----
+@article{WANG2026104380,
+author = {Xiaofeng Wang and Xiao Liu and Yutong Yang and Zhengyong Wang and Xiaohai He and Honggang Chen and Yi Li and Pingyu Wang},
+title = {DSRIR: Dynamic spatial refinement learning for progressive all-in-one image restoration},
+journal = {Information Processing & Management},
+volume = {63},
+number = {2, Part B},
+pages = {104380},
+year = {2026},
+doi = {https://doi.org/10.1016/j.ipm.2025.104380}
+}
 ```
